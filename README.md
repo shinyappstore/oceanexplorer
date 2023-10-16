@@ -1,5 +1,5 @@
 
-<img src="man/figures/logo.png" align="right" height="138" />
+<img src="man/figures/logo.png" height="138" />
 
 # monsterMazeGame: A Halloween Theme Shiny Game
 
